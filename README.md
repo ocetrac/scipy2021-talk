@@ -1,9 +1,12 @@
-![image](https://user-images.githubusercontent.com/22622585/115036332-6c5bb100-9e9b-11eb-8c9a-09381af3fb08.png)
+![image](https://user-images.githubusercontent.com/22622585/115036612-ab8a0200-9e9b-11eb-9e03-03ebeaf50aff.png)
 
-
-#### Title: 
+#### Talk Title: 
 
 Ocetrac: morphological image processing for monitoring ocean temperature extremes
+
+#### Authors: 
+
+[Hillary Scannell](https://github.com/hscannell), [Luanne Thompson](https://github.com/luanne1213), [Daniel Whitt](https://github.com/danielwhitt), [David John Gagne](https://github.com/djgagne),and [Ryan Abernathey](https://github.com/rabernat)
 
 #### Short summary: 
 
