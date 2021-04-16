@@ -6,7 +6,7 @@ Ocetrac: morphological image processing for monitoring ocean temperature extreme
 
 ### Authors: 
 
-[Hillary Scannell](https://github.com/hscannell), [Luanne Thompson](https://github.com/luanne1213), [Daniel Whitt](https://github.com/danielwhitt), [David John Gagne](https://github.com/djgagne), and [Ryan Abernathey](https://github.com/rabernat)
+[Hillary Scannell](https://github.com/hscannell), [Luanne Thompson](https://github.com/luanne1213), [Daniel Whitt](https://github.com/danielwhitt), [David John Gagne](https://github.com/djgagne) & [Ryan Abernathey](https://github.com/rabernat)
 
 ### Short summary: 
 
