@@ -27,4 +27,4 @@ python -m ipykernel install --user --name=ocetrac-scipy-2021
 
 ### ⚡ Access the presentation slides ⚡
 
-In the spirit of a truely open source project, we used [`reveal.js`](https://github.com/hakimel/reveal.js) to create this presentation. The slides are linked in the [`Ocetrac`](https://ocetrac.readthedocs.io/en/latest/) docs and can be accessed here https://ocetrac.github.io/scipy2021-talk/.
+In the spirit of a truely open source project, we used [`reveal.js`](https://github.com/hakimel/reveal.js) to create this presentation. The slides are linked to the [`Ocetrac`](https://ocetrac.readthedocs.io/en/latest/) docs and can be accessed here https://ocetrac.github.io/scipy2021-talk/.
