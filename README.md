@@ -12,7 +12,7 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
 
 ### ⚙️ Getting started ⚙️
 
-The code in the presentation has been written using Python 3. To get started, clone the repository using git `git clone https://github.com/jupyter-widgets/tutorial.git` or by downloading this repostiory as a [Zip file](https://github.com/ocetrac/ocetrac/archive/refs/heads/main.zip).
+The code in the presentation has been written using Python 3. To get started, clone the repository using git `git clone https://github.com/ocetrac/scipy2021-talk.git` or by downloading this repostiory as a [Zip file](https://github.com/ocetrac/ocetrac/archive/refs/heads/main.zip).
 
 Install the conda environment:
 
