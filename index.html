@@ -11,7 +11,7 @@
 
 <!-- General and theme style sheets -->
 <link rel="stylesheet" href="reveal.js/dist/reveal.css">
-<link rel="stylesheet" href="reveal.js/dist/theme/simple.css" id="theme">
+<link rel="stylesheet" href="reveal.js/dist/theme/serif.css" id="theme">
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
@@ -14475,7 +14475,7 @@ require(
             controls: true,
             progress: true,
             history: true,
-            transition: "slide",
+            transition: "none",
         });
 
         var update = function(event){
@@ -14487,7 +14487,7 @@ require(
         Reveal.addEventListener('slidechanged', update);
 
         function setScrollingSlide() {
-            var scroll = false
+            var scroll = true
             if (scroll === true) {
               var h = $('.reveal').height() * 0.95;
               $('section.present').find('section')
