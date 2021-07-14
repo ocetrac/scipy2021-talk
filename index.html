@@ -14103,7 +14103,7 @@ div.jp-OutputPrompt {
 <!-- color: #2d2422 --></p>
 <div align="center">
     <img src="./images/ocetrac_logo_transparent.png" width=300/>
-    <h3><span style="font:tradegothic; color:gray">Morphological image processing for monitoring ocean temperature extremes</span></h3>
+    <h4><span style="font:tradegothic; color:gray">Morphological image processing for monitoring ocean temperature extremes</span></h4>
     <hr>
 </div>
 </div>
@@ -14169,10 +14169,19 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
 <!-- color: #2d2422 --></p>
 <div align="center">
     <h2><span style="font:futura; color:black">Many species can cope with natural temperature fluctuations</span></h2>
-    <img src="./images/natural_temp.png" width=100%/>
+    <img src="./images/natural_temp.png" width=90%/>
 </div>
 </div>
-</div></section><section>
+</div><div class="fragment">
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p><!-- background: #fff4e3-->
+<!-- color: #2d2422 --></p>
+<div align="center">
+    <img src="./images/migratory.png" width=80%/>
+</div>
+</div>
+</div></div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><!-- background: #fff4e3-->
@@ -14182,7 +14191,16 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
     <img src="./images/anthropogenic_temp.png" width=100%/>
 </div>
 </div>
-</div></section><section>
+</div><div class="fragment">
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p><!-- background: #fff4e3-->
+<!-- color: #2d2422 --></p>
+<div align="center">
+    <img src="./images/impacts.png" width=80%/>
+</div>
+</div>
+</div></div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><!-- background: #fff4e3-->
@@ -14192,7 +14210,7 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
     <img src="./images/mhw_explanation.png" width=100%/>
 </div>
 </div>
-</div>
+</div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><!-- background: #fff4e3-->
@@ -14202,16 +14220,31 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
     <img src="./images/Frolicher_Laufkotter.png" width=100%/>
 </div>
 </div>
+</div></section><section>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+
+</div>
 </div></section></section><section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><!-- background: #fff4e3-->
 <!-- color: #2d2422 --></p>
-<div align="left">
-    <h2>Sea Surface Temperature Data</h2>
+<p><div align="center">
+    <h2>Motivation & Goals of Ocetrac</h2>
      <hr>
-
 </div>
+Motivation – Better understand the spatiotemporal evolution of marine heatwaves</p>
+<p>Feature Extraction</p>
+<p>Identify candidate points by eliminating those that do not satisfy a prescribed set of thresholds</p>
+<p>Object Detection</p>
+<p>Determine whether a closed contour exists around a cluster of candidate points.
+Remove small isolated clusters as well as fill small holes within larger clusters.
+Eliminate closed contour object that do no meet a prescribed size threshold</p>
+<p>Multiple Object Tracking</p>
+<p>Stitch connected objects in time, allowing them to split and merge
+Produce a new labeled dataset of marine heatwaves events</p>
+
 </div>
 </div></section><section><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
