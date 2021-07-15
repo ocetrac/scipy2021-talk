@@ -2,9 +2,9 @@
 
 ### Earth, Ocean, Geo, & Atmospheric Science Talk, SciPy 2021
 
-#### Contributors: 
+#### Contributors (alphabetical): 
 
-[Hillary Scannell](https://github.com/hscannell), [Luanne Thompson](https://github.com/luanne1213), [Daniel Whitt](https://github.com/danielwhitt), [David John Gagne](https://github.com/djgagne), [Ryan Abernathey](https://github.com/rabernat) & [Julius Busecke](http://jbusecke.github.io/)
+[Hillary Scannell](https://github.com/hscannell)(*presenter), [Ryan Abernathey](https://github.com/rabernat), [Julius Busecke](http://jbusecke.github.io/), [David John Gagne](https://github.com/djgagne), [Luanne Thompson](https://github.com/luanne1213), and [Daniel Whitt](https://github.com/danielwhitt)
 
 #### Short summary: 
 
