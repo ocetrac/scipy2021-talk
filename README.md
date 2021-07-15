@@ -25,7 +25,7 @@ In the spirit of a truely open source project, we used [`reveal.js`](https://git
 
 To build the html file, run these lines at the terminal within the repository:
 ```bash
-jupyter nbconvert index.ipynb --to slides --reveal-prefix reveal.js --SlidesExporter.reveal_transition=none --SlidesExporter.reveal_scroll=True --SlidesExporter.reveal_scroll=True
+jupyter nbconvert index.ipynb --to slides --reveal-prefix reveal.js --SlidesExporter.reveal_transition=none --SlidesExporter.reveal_scroll=True 
  
 mv index.slides.html index.html # renames the html file
 
