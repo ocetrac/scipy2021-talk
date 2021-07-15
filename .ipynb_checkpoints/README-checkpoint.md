@@ -12,18 +12,8 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
 
 ### ⚙️ Getting started ⚙️
 
-The code in the presentation has been written using Python 3. To get started, clone the repository using git `git clone https://github.com/ocetrac/scipy2021-talk.git` or by downloading this repostiory as a [Zip file](https://github.com/ocetrac/scipy2021-talk/archive/refs/heads/main.zip).
+The code in the presentation has been written using Python 3.8. The code and preconfigured environment is available through the Pangeo Binder: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/hscannell/default-binder/ocetrac?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Focetrac%252Fscipy2021-talk%26urlpath%3Dlab%252Ftree%252Fscipy2021-talk%252F%26branch%3Dmain)
 
-Install the conda environment:
-
-```bash
-conda env create -f environment.yml
-
-conda activate ocetrac-scipy-2021
-
-# Create a kernel for this environment
-python -m ipykernel install --user --name=ocetrac-scipy-2021
-```
 
 ### ⚡ Access the presentation slides ⚡
 
