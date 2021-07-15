@@ -1,5 +1,5 @@
 # Ocetrac: morphological image processing for monitoring ocean temperature extremes
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/hscannell/default-binder/ocetrac?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Focetrac%252Fscipy2021-talk%26urlpath%3Dlab%252Ftree%252Fscipy2021-talk%252F%26branch%3Dmain)
+
 ### Earth, Ocean, Geo, & Atmospheric Science Talk, SciPy 2021
 
 #### Contributors: 
