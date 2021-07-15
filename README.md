@@ -12,7 +12,9 @@ Dangerous hot-water events, called marine heatwaves, cause prolonged periods of 
 
 ### ⚙️ Getting started ⚙️
 
-The code in the presentation has been written using Python 3.8. The code and preconfigured environment is available through the Pangeo Binder: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/hscannell/default-binder/ocetrac?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Focetrac%252Fscipy2021-talk%26urlpath%3Dlab%252Ftree%252Fscipy2021-talk%252F%26branch%3Dmain)
+The code in the presentation has been written using Python 3.8. The code and preconfigured environment is all available through the Pangeo Binder below: 
+
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/hscannell/default-binder/ocetrac?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Focetrac%252Fscipy2021-talk%26urlpath%3Dlab%252Ftree%252Fscipy2021-talk%252F%26branch%3Dmain)
 
 
 ### ⚡ Access the presentation slides ⚡
