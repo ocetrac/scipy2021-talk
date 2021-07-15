@@ -16,5 +16,4 @@ dependencies:
   - ipykernel
   - s3fs
   - zarr
-  - pip:
-    - ocetrac==0.1.3 
+  - ocetrac
